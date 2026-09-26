@@ -2,7 +2,7 @@ Owen Matthews
 
 ## Todo List App, now with React
 
-your hosting link: https://a4-owen-matthews.onrender.com
+https://a4-owen-matthews.onrender.com
 
 This is a React rewrite of the client side from Assignment 2. The server logic and derived-field calculation stayed the same, and now runs on Express. The biggest change was on the client because instead of manually clearing and rebuilding the table's HTML and re-wiring button click handlers after every update, the UI is now broken into components that automatically re-render when state changes. Overall, React improved the development experience.
 
